@@ -7,7 +7,7 @@ from django.contrib.auth.models import User
 import telebot
 
 # обьект бота
-bot = telebot.TeleBot('7313216034:AAHH5eFXkyRA7x2U-GD3jQktIXXV4OvvMYk')
+bot = telebot.TeleBot('token')
 admin_id = 134172
 
 
